@@ -1,0 +1,2 @@
+# SoftUni_QA_Fundamentals_Training
+SoftUni_QA_Fundamentals_Training
